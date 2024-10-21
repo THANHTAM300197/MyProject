@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "O/u7G4zQi1wE6TWBBeB9D8o1baJnZZ66OWmokGeMTsJFbajwoe09+hHrnRcfC7BfJ5x/ILXfB1ZkRPjDQMaLZg==",
+  "dgSpecHash": "JbzR0Z1ZyXLVXzOYTC5YCjRY+nqt+0O6029J+A/k+Nu9+4jVIzVFGyT6jsZ9V3ApKKv7mp9qeC+SuGmuGZF53g==",
   "success": true,
   "projectFilePath": "F:\\Code\\Project\\MyEcommerceApp\\MyEcommerceApp\\MyEcommerceApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tam.tran\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
